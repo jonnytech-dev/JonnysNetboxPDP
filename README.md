@@ -1,4 +1,4 @@
-# Jonny's Netbox Preconfigured Docker Package
+# Jonny's Netbox Preconfigured Docker Package (PDP)
 
 A ready-to-go NetBox v4.6.1 Docker setup with plugins pre-installed. Clone it, build, and run — no manual plugin installation needed.
 
