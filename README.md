@@ -1,4 +1,4 @@
-# NetBox Docker — Pre-configured with Plugins
+# Jonny's Netbox Preconfigured Docker Package
 
 A ready-to-go NetBox v4.6.1 Docker setup with plugins pre-installed. Clone it, build, and run — no manual plugin installation needed.
 
